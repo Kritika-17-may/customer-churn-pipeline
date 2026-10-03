@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data & Database files
+cleaned_customer_churn.csv
+churn_db.db
+
+# Environment & Editor settings
+.vscode/
+.venv/
+venv/
